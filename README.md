@@ -58,9 +58,8 @@ if __name__ == "__main__":
     hill_cipher_encrypt_decrypt()
 ```
 ## OUTPUT
-```
-![image](https://github.com/user-attachments/assets/6d610018-cc76-421b-a1df-1f5aba67cce4)
-```
+
+![Screenshot 2025-03-27 090046](https://github.com/user-attachments/assets/b2e858df-1e75-4958-bff1-65af7eaf612e)
 ## RESULT :
 
    The program Hill cipher is successfully implented.
